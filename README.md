@@ -20,4 +20,11 @@ The objective is to predict the data series represented by four kinds of scienti
 Due to the timeline of the project and the scale of the Kaggle competition, the scope of this project for this course was updated. Since, the course is on Deep Learning, we focused our efforts on developing strong models for the chart classifier, and the origin detector/bounding box models. Due to this, in the stages after the deep learning models we only focus on charts that are classified as vertical bar. We will expand efforts to the other chart types for the Kaggle competition. Additionally, the stretch goal of creating an AI model to text summarize the data was removed from the scope.
 
 ### Model Pipeline:
+
 ![Model Pipeline](https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Model_Pipeline.png)
+
+
+### Results
+The results of the individual modules is show below. Note that the **competition is still on**, thus work is under progress. Also this is the reason why no code file has been uploaded yet.
+
+![Results](https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Results.png)
