@@ -1,11 +1,12 @@
 # Hands-on Deep Learning
 
-Bar X-Tract
-A Pipeline for the Extraction of Data from Images of Bar Charts
-15.S04: Hands on Deep Learning
-Massachusetts Institute of Technology
-Spring 2023
-Rachit Jain, Ayush Shukla, Gavin Findlay, Dafne Badilla
+## Bar X-Tract
+
+A Pipeline for the Extraction of Data from Images of Bar Charts \\
+15.S04: Hands on Deep Learning \\
+Massachusetts Institute of Technology \\
+Spring 2023 \\
+Rachit Jain, Ayush Shukla, Gavin Findlay, Dafne Badilla \\
 
 
 ### Introduction
