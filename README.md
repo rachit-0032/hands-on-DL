@@ -22,10 +22,10 @@ Due to the timeline of the project and the scale of the Kaggle competition, the 
 
 ### Model Pipeline:
 
-![Model Pipeline](https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Model_Pipeline.png)
+[Model Pipeline](https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Model_Pipeline.png)
 
 
 ### Results
 The results of the individual modules is show below. Note that the **competition is still on**, thus work is under progress. Also this is the reason why no code file has been uploaded yet.
 
-![Results](https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Results.png)
+[Results](https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Results.png)
